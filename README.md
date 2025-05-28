@@ -1,8 +1,8 @@
 # Hi there 👋 I'm [MYG]
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?logo=github&style=flat-square)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?logo=github&style=flat-square)](https://github.com/HardenMYG)
 [![Website](https://img.shields.io/badge/Portfolio-YourSite.com-blue?style=flat-square)](https://yoursite.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/HardenMYG)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Writer" alt="Typing SVG">
@@ -35,10 +35,10 @@
 <table>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&count_private=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=HardenMYG&show_icons=true&theme=dark&count_private=true" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide=html,css" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardenMYG&layout=compact&theme=dark&hide=html,css" />
     </td>
   </tr>
 </table>
@@ -62,9 +62,9 @@
 ### 📫 How to reach me
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
+- 📧 Email: 927833135@qq.com
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [yourusername](https://github.com/HardenMYG)
