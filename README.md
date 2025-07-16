@@ -15,7 +15,7 @@
 #### <img src="https://img.icons8.com/color/48/000000/circuit.png" width="24"/> Programming Languages
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=plastic&logo=python&logoColor=white&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=plastic&logo=javascript&logoColor=black&labelColor=0D1117)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=plastic&logo=typescript&logoColor=white&labelColor=0D1117)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=cplusplus&logoColor=white&labelColor=0D1117)
 ![Java](https://img.shields.io/badge/JAVA-007396?style=plastic&logo=openjdk&logoColor=white&labelColor=0D1117)
 
 #### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24"/> Development Frameworks
@@ -24,8 +24,6 @@
 ![Django](https://img.shields.io/badge/DJANGO-092E20?style=plastic&logo=django&logoColor=white&labelColor=0D1117)
 
 #### <img src="https://img.icons8.com/color/48/000000/toolbox.png" width="24"/> Tools & Infrastructure
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=plastic&logo=docker&logoColor=white&labelColor=0D1117)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white&labelColor=0D1117)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=plastic&logo=git&logoColor=white&labelColor=0D1117)
 
 ---
