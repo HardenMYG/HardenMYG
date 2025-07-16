@@ -18,7 +18,7 @@
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=plastic&logo=typescript&logoColor=white&labelColor=0D1117)
 ![Java](https://img.shields.io/badge/JAVA-007396?style=plastic&logo=openjdk&logoColor=white&labelColor=0D1117)
 
-#### <img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/48/000000/external-framework-web-development-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png" width="24"/> Development Frameworks
+#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24"/> Development Frameworks
 ![React](https://img.shields.io/badge/REACT-61DAFB?style=plastic&logo=react&logoColor=black&labelColor=0D1117)
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=plastic&logo=node.js&logoColor=white&labelColor=0D1117)
 ![Django](https://img.shields.io/badge/DJANGO-092E20?style=plastic&logo=django&logoColor=white&labelColor=0D1117)
