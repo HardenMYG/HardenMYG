@@ -48,7 +48,7 @@
 
 
 ### 📬 Contact Information
-- <img src="https://img.icons8.com/color/24/000000/secured-letter.png"/> Email: 927833135@qq.com
+- <img src="https://img.icons8.com/color/24/000000/secured-letter.png"/> Email: 927833135@qq.com or mingyuge99@gmail.com
 ---
 
 > "The science of today is the technology of tomorrow."  
