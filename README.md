@@ -1,54 +1,25 @@
-# 💻 MYG's Tech Portfolio: Code & Innovation Hub 🚀
+### 👤 Profile
 
-[![GitHub Profile](https://img.shields.io/badge/Profile-GitHub-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HardenMYG)
-[![Personal Portfolio](https://img.shields.io/badge/Portfolio-Website-0D1117?style=for-the-badge&logo=protonmail&logoColor=white)](https://yoursite.com)
-[![LinkedIn Profile](https://img.shields.io/badge/Professional-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/HardenMYG)
+I am a junior undergraduate student majoring in Computer Science and Technology at the College of Computer Science, Nankai University. My homepage records my education, research interests, publications, and projects.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+SYSTEMS+DEPLOYED;%F0%9F%94%A5+CODE+OPTIMIZED;%F0%9F%93%A1+SOLUTIONS+ENGINEERED;%E2%9C%A8+TECHNOLOGY+INNOVATED" alt="Development Workflow">
-</p>
+#### Education
+- Undergraduate: Nankai University, College of Computer Science, Computer Science and Technology. B.Eng. candidate / Junior undergraduate student.
+- Master: To be updated.
+- Ph.D.: To be updated.
 
----
+#### Research Interest
+- Computer Vision
+- Vision Language Models
+- Agent
+- Embodied AI
 
-### 🛠️ Technical Skill Set
+#### Communication
+I welcome discussions on undergraduate research, course projects, and future research directions. Feel free to connect with me through the following channels.
 
-#### <img src="https://img.icons8.com/color/48/000000/circuit.png" width="24"/> Programming Languages
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=plastic&logo=python&logoColor=white&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=plastic&logo=javascript&logoColor=black&labelColor=0D1117)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=cplusplus&logoColor=white&labelColor=0D1117)
-![Java](https://img.shields.io/badge/JAVA-007396?style=plastic&logo=openjdk&logoColor=white&labelColor=0D1117)
+- Website: https://hardenmyg.github.io/
+- Email: 2312388@mail.nankai.edu.cn
+- GitHub: https://github.com/HardenMYG
 
-#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24"/> Development Frameworks
-![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=plastic&logo=node.js&logoColor=white&labelColor=0D1117)
-
-#### <img src="https://img.icons8.com/color/48/000000/toolbox.png" width="24"/> Tools & Infrastructure
-![Git](https://img.shields.io/badge/GIT-F05032?style=plastic&logo=git&logoColor=white&labelColor=0D1117)
-
----
-
-### 📊 Development Metrics
-
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=HardenMYG&show_icons=true&theme=dark&count_private=true&include_all_commits=true&border_color=58A6FF" alt="GitHub Statistics" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardenMYG&layout=compact&theme=dark&hide=html,css&border_color=58A6FF&langs_count=6" alt="Language Distribution" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=HardenMYG&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Timeline" />
-    </td>
-  </tr>
-</table>
-
----
-
-
-### 📬 Contact Information
-- <img src="https://img.icons8.com/color/24/000000/secured-letter.png"/> Email: 927833135@qq.com or mingyuge99@gmail.com
 ---
 
 > "The science of today is the technology of tomorrow."  
