@@ -40,7 +40,7 @@ I welcome discussions on undergraduate research, course projects, and future res
 
 * 🌐 Website: https://hardenmyg.github.io/
 * ✉️ Email: [2312388@mail.nankai.edu.cn](mailto:2312388@mail.nankai.edu.cn)
-* <img src="https://cdn.simpleicons.org/github/181717" width="16" height="16" alt="GitHub" /> GitHub: [https://github.com/HardenMYG](https://github.com/HardenMYG)
+* <img src="https://cdn.simpleicons.org/github/ffffff" width="16" height="16" alt="GitHub" /> GitHub: [https://github.com/HardenMYG](https://github.com/HardenMYG)
 
 ---
 
